@@ -2,22 +2,22 @@ import { motion } from "framer-motion";
 
 const images = [
   {
-    src: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&q=80",
+    src: "/gallery_1.jpg",
     alt: "Cheesy deep-dish pizza slice being pulled",
     span: "col-span-2 row-span-2",
   },
   {
-    src: "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&q=80",
+    src: "/gallery_2.jpg",
     alt: "Fresh pizza ingredients",
     span: "",
   },
   {
-    src: "https://images.unsplash.com/photo-1593560053157-7e8daca19dea?w=400&q=80",
+    src: "/gallery_3.jpg",
     alt: "Margherita pizza close-up",
     span: "",
   },
   {
-    src: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&q=80",
+    src: "/gallery_4.jpg",
     alt: "Cozy restaurant interior",
     span: "col-span-2",
   },
